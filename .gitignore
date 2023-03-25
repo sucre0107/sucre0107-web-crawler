@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+
+.env
+processed/
+embeddings.csv
+venv/
+.idea
+.DS_Store
