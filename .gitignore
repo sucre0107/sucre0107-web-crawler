@@ -6,3 +6,4 @@ embeddings.csv
 venv/
 .idea
 .DS_Store
+text/
